@@ -1,0 +1,2460 @@
+==========================[Start Time : 2022/07/02 13:54:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('996580',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:54:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oe1685',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 14 Millis
+==========================[Start Time : 2022/07/02 13:54:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1r3223',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 14 Millis
+==========================[Start Time : 2022/07/02 13:54:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mh3020',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('so5362',0,TO_DATE('2000/06/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('997676',1,TO_DATE('2000/11/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yk6960',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('dl2077',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ih1183',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ip6440',1,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si7096',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jn7502',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('at2434',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2n2712',0,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kl7551',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ol9423',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh5128',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('rr1586',1,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ry2121',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hw7969',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lb2318',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('im2229',0,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('le1118',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('112025',0,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('3I6790',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ir1459',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('234011',0,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gg5595',0,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wd9623',1,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('no5694',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('no8298',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jo9585',1,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ae6521',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('NU1840',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ap7783',0,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('un9392',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kn9808',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('fl6284',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('953075',0,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('co1576',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mm5702',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ni8274',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yi7908',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('os8139',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('026899',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ph9325',1,TO_DATE('2000/07/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wl6808',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('as2634',0,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('el3409',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('er3467',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sm5498',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ds2966',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1d5382',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tc9803',0,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ad6159',1,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1s8180',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('956758',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wo1887',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tc1336',1,TO_DATE('2000/07/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('343234',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('pa3549',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('231118',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('if7400',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('og7200',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('276214',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kk7114',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yp4236',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ar1451',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ma5759',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kp2617',0,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:35]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si1166',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:35]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uo3942',0,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:35]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('3n6260',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('eu9193',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('012089',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ah2536',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('cc5811',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ko6287',0,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('018000',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ka4051',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ea2610',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si3904',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uj5037',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si5299',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('xa2357',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('0a7687',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:36]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('a21955',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:37]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oa5789',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:37]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn4174',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:37]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('907284',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:37]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ga9687',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kr1257',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mo5918',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('103949',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('404139',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ot9678',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nj2693',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('on8163',0,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('fg4124',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('917599',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('808749',1,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ss1396',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hy3762',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ry8911',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('103620',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('533555',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:38]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2m2106',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hm6603',0,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('6s3540',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2h3874',1,TO_DATE('2000/10/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bm3050',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ik1402',0,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('173180',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('861381',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('h17666',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('et5444',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('io9788',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oc9166',0,TO_DATE('2000/11/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yd8435',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('777486',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:39]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('na8103',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('um9479',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh6860',0,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ob5933',1,TO_DATE('2000/07/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('821134',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ka3443',1,TO_DATE('2000/07/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mi2937',1,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2n3814',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('666926',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('418571',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 41 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ka6808',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tk6389',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:40]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('861079',0,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('877187',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('md3532',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wk3376',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ee5211',0,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('is5728',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('li2185',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('aw4090',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ee6960',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu7267',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tn1463',0,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('su1161',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bo8451',1,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('iu4047',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ee2811',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:41]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kg3911',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('918517',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('su2217',1,TO_DATE('2000/10/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sr7897',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ir7126',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('id5947',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oc5334',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1m4623',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('256764',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ci8007',1,TO_DATE('2000/10/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yn9663',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('144839',0,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('pa5935',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hg3791',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('8i7164',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:42]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ps1075',0,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:43]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mi9323',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:43]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('us6305',1,TO_DATE('2000/06/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:43]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ma2371',0,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bo5728',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tn7752',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ih4728',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('fu3482',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('eg8080',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mg5700',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kl7257',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('is3746',0,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('376207',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 11 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('i91115',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ne6444',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ml8878',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:46]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kf4163',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:46]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('YL2829',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:47]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('UA3021',0,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:47]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ez6668',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mo8322',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sl9476',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('022913',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('dn8899',1,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('7k2268',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ak6066',0,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('pn4122',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('407613',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('li5598',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('409941',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yh1809',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lb4815',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lp2369',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sl7764',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jm3355',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:48]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wh2056',0,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wn5645',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('na8637',1,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('8e8321',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ah6539',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('le2151',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('OB7387',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gh2998',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('218706',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ms4374',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ve9069',0,TO_DATE('2000/11/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kb6412',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('s-2878',0,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:49]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('km5945',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('804264',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('096231',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('426047',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bn4468',1,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hs9578',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:51]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('su8398',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:51]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('422528',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:51]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('rp9890',0,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:51]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gg1760',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kg4586',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bo6993',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ai6542',1,TO_DATE('2000/11/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('on3988',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('122248',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('il4705',1,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2y6347',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('354635',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ip2550',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('077213',1,TO_DATE('2000/10/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('609701',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('rt3118',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ar3920',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('527081',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:52]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tn8972',1,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:53]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('642846',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:53]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('az6396',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:53]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bm7191',0,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:54]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ar3491',1,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:54]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ls2357',1,TO_DATE('2000/07/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:54]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('te8231',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:54]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('441646',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu4891',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('466748',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2g1410',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tm2784',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:56]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lu6433',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:56]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1a2536',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:56]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('4m4305',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:56]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('is4207',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('058009',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('302384',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('eg7086',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ip6600',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ro7523',0,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sn1646',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('841883',0,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('de5852',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:57]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('978072',0,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ne6391',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('012676',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uJ5882',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mi2834',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('5s1800',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wg3290',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('TJ4335',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('io3439',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('771922',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2e7631',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tr6544',0,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('na2486',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('XA9776',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('dm6931',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ls9806',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('_n2679',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gw8508',0,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lu8345',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn2308',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:54:59]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu7494',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:00]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wk4526',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:00]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bs4796',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:00]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('322458',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:00]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('te3663',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ik1686',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('409842',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('015810',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('da7763',0,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('4n1268',1,TO_DATE('2000/06/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ni1866',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mi8784',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('886626',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('at1606',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('336487',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ho1623',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn5733',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu5950',0,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh7225',0,TO_DATE('2000/07/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('am2512',1,TO_DATE('2000/10/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ot3760',1,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jm9823',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('iv7766',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:02]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('il1470',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('de6122',1,TO_DATE('2000/07/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ot9118',0,TO_DATE('2000/11/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('807970',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jj9116',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('EE9224',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gg7329',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lb4134',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:03]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('am7703',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ar6737',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ma5887',1,TO_DATE('2000/06/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wc2699',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si1963',0,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ci2531',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('896047',0,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bo8726',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gi8764',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wd2588',0,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('aj8540',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:05]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('up4299',0,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:05]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('155251',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:05]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oz2803',0,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('re1561',1,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ih9389',0,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ra6587',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('on1224',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ak5833',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('an8233',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uy1593',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ap5832',0,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:06]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('to3299',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 20 Millis
+==========================[Start Time : 2022/07/02 13:55:07]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('co7789',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:07]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gj9748',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('401303',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('so7332',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sr4342',0,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('017625',0,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ma3030',1,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('006582',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ud1419',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('7m1253',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('il1594',0,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('996958',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('na4477',1,TO_DATE('2000/07/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ah8373',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ev3310',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('og6675',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('in3500',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:10]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('3d2346',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:10]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yi2402',1,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:10]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('xe5677',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:55:11]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hc9689',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ic2169',1,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('401172',1,TO_DATE('2000/11/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('zz5785',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('od2317',1,TO_DATE('2000/07/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('199230',0,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu7634',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:17]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('od7816',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:17]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('df2893',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ow5074',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ed2400',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('OR6680',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('no3372',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ih3131',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('pl5074',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('et6068',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:18]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('at1862',0,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:20]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('er6056',0,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sy1186',1,TO_DATE('2000/11/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('537269',0,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bm1489',1,TO_DATE('2000/10/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ra2231',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh2320',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('288369',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oo3234',1,TO_DATE('2000/07/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2h6034',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uj7546',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('io8542',0,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn2565',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ad7234',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gi6517',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:21]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oe7698',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:22]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ga1478',1,TO_DATE('2000/06/16 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:23]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('th2237',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:23]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('us3557',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:23]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mi1964',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:23]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('om7766',0,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('889021',0,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ot1194',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jw4746',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('FO4890',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ah8533',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ye8802',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nn4942',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ge8720',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ei3379',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ak9529',1,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('3n3028',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh2395',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('9h9746',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('zr6779',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('en4557',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ch1224',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ae3370',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('919648',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mo4840',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ik3837',0,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('377484',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sj2915',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('702792',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('am2949',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:25]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kn5718',1,TO_DATE('2000/10/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si6083',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('799915',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('611051',1,TO_DATE('2000/10/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ni2739',1,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sr8443',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('765689',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('so9887',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:26]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn3287',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:27]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uo3089',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mh7104',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('tm6507',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:55:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('cn5409',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hs9490',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('661107',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ps5978',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('vd2337',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gi1715',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('in6926',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('iu1803',1,TO_DATE('2000/06/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gn9380',1,TO_DATE('2000/11/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('074210',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mt3362',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('al1276',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('0d1130',0,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ib3663',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oh5566',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('so1808',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ak1030',1,TO_DATE('2000/06/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uh2263',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mh7131',1,TO_DATE('2000/10/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ba5570',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('874641',1,TO_DATE('2000/06/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ht9567',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('e18877',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ko9495',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('1l1360',0,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sw2588',1,TO_DATE('2000/10/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('cn4101',0,TO_DATE('2000/11/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('af2457',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nw2201',1,TO_DATE('2000/11/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:32]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sj5922',0,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:55:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('or3364',0,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('yk7760',1,TO_DATE('2000/07/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('dg9647',0,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:55:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('je1794',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('lb2500',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('am1965',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('888970',1,TO_DATE('2000/10/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('cy2540',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('io3942',0,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('sg6926',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('al3324',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('me7742',1,TO_DATE('2000/11/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('RA7193',1,TO_DATE('2000/10/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2s7257',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('522635',1,TO_DATE('2000/10/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > COMMIT
+
+실행 완료. Time used: 3 Millis

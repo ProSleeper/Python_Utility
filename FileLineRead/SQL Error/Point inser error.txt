@@ -1,0 +1,2580 @@
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('_n2679',100,200,5,0)
+
+실행 완료. Time used: 19 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('006582',100,60,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('012089',100,30,4,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('012676',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('015810',100,30,12,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('017625',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('018000',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('022913',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('026899',100,30,4,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('028325',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('058009',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('074210',100,60,6,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('077213',100,100,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('096231',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('0a7687',100,60,6,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('0d1130',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('103620',100,230,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('103949',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('112025',100,30,6,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('122248',100,30,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('144839',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('155251',100,30,3,0)
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('173180',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('199230',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1a2536',100,230,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1d5382',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1g8573',100,30,6,50)
+
+실행 완료. Time used: 119 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1l1360',100,200,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1m4623',100,60,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1r3223',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('1s8180',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('218706',100,30,7,0)
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('231118',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('234011',100,30,8,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('256764',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('276214',100,100,4,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('288369',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2e7631',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2g1410',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2h3874',100,300,6,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2h6034',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2m2106',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2n2712',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2n3814',100,60,11,50)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2s7257',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('2y6347',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('302384',100,130,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('322458',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('336487',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('343234',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('354635',100,160,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('376207',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('377484',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('3d2346',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('3I6790',100,30,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('3n3028',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('3n6260',100,300,15,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('401172',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('401303',100,100,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('404139',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('407613',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('409842',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('409941',100,130,4,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('418571',100,100,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('422528',100,90,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('426047',100,100,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('441646',100,30,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('466748',100,200,6,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('4m4305',100,30,3,0)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:52:11]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('4n1268',100,60,2,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('522635',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('527081',100,60,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('533555',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('537269',100,100,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('5s1800',100,60,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('609701',100,130,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('611051',100,330,6,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:12]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('642846',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('661107',100,30,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('666926',100,90,10,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('6s3540',100,100,6,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('702792',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('765689',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('771922',100,100,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('777486',100,200,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('799915',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('7k2268',100,30,6,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:13]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('7m1253',100,200,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('804264',100,30,6,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('807970',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('808749',100,60,7,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('821134',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('841883',100,60,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:14]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('861079',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:15]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('861381',100,30,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:15]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('874641',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:15]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('877187',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:15]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('886626',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:15]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('888970',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('889021',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('896047',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('8e8321',100,300,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('8i7164',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('907284',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('917599',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('918517',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('919648',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('953075',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('956758',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('978072',100,30,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('996580',100,300,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:16]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('996958',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('997676',100,30,3,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('9h9746',100,30,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('a21955',100,160,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ad6159',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ad7234',100,400,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ae3370',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ae6521',100,30,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('af2457',100,30,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ah2536',100,30,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ah6539',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ah8373',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ah8533',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ai6542',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('aj8540',100,100,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ak1030',100,100,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:17]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ak5833',100,30,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:18]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ak6066',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:18]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ak9529',100,30,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:18]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('al1276',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:18]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('al3324',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('am1965',100,60,4,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('am2512',100,130,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('am2949',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('am7703',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('an8233',100,90,2,50)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ap5832',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ap7783',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ar1451',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ar3491',100,30,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:19]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ar3920',100,30,9,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:20]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ar6737',100,30,5,50)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:21]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('as2634',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:21]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('at1606',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:21]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('at1862',100,60,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:21]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('at2434',100,30,2,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:21]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('aw4090',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:22]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('az6396',100,90,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:22]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ba5570',100,30,3,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:22]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bm1489',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:22]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bm3050',100,60,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:22]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bm7191',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:23]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bn4468',100,130,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:23]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bo5728',100,100,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:23]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bo6993',100,60,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bo8451',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bo8726',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('bs4796',100,30,12,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('cc5811',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ch1224',100,100,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ci2531',100,100,13,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ci8007',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('cn4101',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('cn5409',100,60,2,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:24]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('co1576',100,100,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('co7789',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('cy2540',100,200,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('da7763',100,30,10,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('de5852',100,130,9,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('de6122',100,160,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('df2893',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dg9647',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dh4695',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:25]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dj9811',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dl2077',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dm6931',100,30,11,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('dn8899',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ds2966',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('e18877',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:26]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ea2610',100,30,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ed2400',100,30,8,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ee2811',100,100,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ee5211',100,230,13,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ee6960',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('EE9224',100,90,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('eg7086',100,400,8,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('eg8080',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ei3379',100,30,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ei6538',100,100,18,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('el3409',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('en4557',100,100,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:27]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('er3467',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('er6056',100,100,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('et5444',100,100,9,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('et6068',100,60,6,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('eu9193',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ev3310',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ez6668',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('fg4124',100,100,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:28]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('fl6284',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('FO4890',100,100,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('fu3482',100,300,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ga1478',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ga9687',100,60,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ge8720',100,30,5,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gg1760',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gg5595',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gg7329',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:29]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gh2998',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gi1715',100,100,20,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gi6517',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gi8764',100,30,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gj9748',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gk8385',100,30,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn2308',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn2565',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn3287',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn4174',100,30,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:30]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn5733',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gn9380',100,60,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('gw8508',100,100,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('h17666',100,100,28,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hc3863',100,100,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hc5451',100,60,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:31]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hc8023',100,60,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hc9689',100,100,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hg3791',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hm6603',100,230,64,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ho1623',100,200,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hs9490',100,60,7,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hs9578',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ht9567',100,230,15,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hw7969',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('hy3762',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('i91115',100,230,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:32]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ib3663',100,500,17,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ic2169',100,30,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('id5947',100,100,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('if7400',100,30,9,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ih1183',100,60,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ih3131',100,30,14,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ih4728',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ih9389',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:33]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ik1402',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:34]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ik1686',100,30,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:34]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ik3837',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:34]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('il1470',100,100,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:34]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('il1594',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('il4705',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('IL5748',100,30,11,50)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('im2229',100,130,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('im7571',100,60,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('in3500',100,300,26,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('in6926',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('io3439',100,800,11,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('io3942',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('io8542',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('io9788',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ip2550',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ip6440',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ip6600',100,100,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:35]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ir1459',100,60,8,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:36]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ir7126',100,130,26,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:36]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('is3746',100,30,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:36]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('is4207',100,600,5,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:36]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('is5728',100,60,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:36]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('iu1803',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('iu4047',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('iv7766',100,200,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('je1794',100,60,6,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jj9116',100,130,16,50)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jm3355',100,90,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jm9823',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:37]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jn7502',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jo9585',100,60,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('jw4746',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ka3443',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ka4051',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ka6808',100,100,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kb6412',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kf4163',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kg3911',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:39]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kg4586',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kk7114',100,30,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kl7257',100,160,9,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kl7551',100,60,6,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('km5945',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kn5718',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kn9808',100,300,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ko3700',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ko6287',100,60,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ko8236',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ko9495',100,130,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kp2617',100,30,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('kr1257',100,60,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ku4159',100,200,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:42]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ku8373',100,100,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lb2318',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lb2500',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lb4134',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lb4815',100,100,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('le1118',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('le2151',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('li2185',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('li5598',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lo7422',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lp2369',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ls2357',100,60,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ls9806',100,200,11,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lu6433',100,60,13,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('lu8345',100,100,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:43]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ma2371',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ma3030',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ma5759',100,30,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ma5887',100,100,6,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('md3532',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('me7742',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mg5700',100,30,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:44]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mh3020',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:45]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mh7104',100,30,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:45]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mh7131',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:45]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi1964',100,90,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:45]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi2834',100,30,4,50)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:45]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi2937',100,60,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi6840',100,30,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi8784',100,90,3,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mi9323',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ml8878',100,160,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mm5702',100,30,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mo4840',100,30,5,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mo5918',100,100,6,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mo8322',100,30,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ms1580',100,60,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ms4374',100,30,12,50)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('mt3362',100,60,3,0)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:52:46]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('na2486',100,30,7,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:47]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('na4477',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:47]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('na8103',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:47]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('na8637',100,100,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ne6391',100,30,3,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ne6444',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ni1866',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ni1981',100,100,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ni2739',100,30,2,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ni8274',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nj2693',100,60,20,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nn4942',100,30,3,50)
+
+실행 완료. Time used: 29 Millis
+==========================[Start Time : 2022/07/02 13:52:48]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('no3372',100,30,2,0)
+
+실행 완료. Time used: 38 Millis
+==========================[Start Time : 2022/07/02 13:52:49]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('no5694',100,30,3,0)
+
+실행 완료. Time used: 47 Millis
+==========================[Start Time : 2022/07/02 13:52:49]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('no6706',100,30,2,0)
+
+실행 완료. Time used: 26 Millis
+==========================[Start Time : 2022/07/02 13:52:49]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('no8298',100,30,4,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:49]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('NU1840',100,60,4,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nu4891',100,60,15,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nu5950',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nu7267',100,60,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nu7494',100,60,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nu7634',100,30,10,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:53]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('nw2201',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oa5789',100,30,9,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ob5933',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('OB7387',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oc5334',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oc9166',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:54]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('od2317',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:55]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('od7816',100,60,5,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:55]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oe1685',100,200,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:52:56]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oe7698',100,60,12,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('og6675',100,60,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('og7200',100,300,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh2320',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh2395',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh5128',100,30,2,0)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh5566',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh6860',100,30,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oh7225',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oi5686',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ol9423',100,30,90,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('om6846',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('om7766',100,30,6,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('on1224',100,30,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('on3988',100,30,5,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:57]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('on8163',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oo3234',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oo6693',100,60,2,50)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('or3364',100,60,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('OR6680',100,60,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('os8139',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ot1194',100,200,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ot3760',100,60,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ot9118',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ot9678',100,60,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:52:58]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ow5074',100,130,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('oz2803',100,200,4,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('pa3549',100,30,2,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('pa5935',100,100,12,50)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ph9325',100,100,9,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('pl5074',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('pn4122',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:52:59]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ps1075',100,30,11,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ps5978',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ra2231',100,30,5,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ra6587',100,30,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('RA7193',100,130,6,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('re1561',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ro7523',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('rp9890',100,90,2,0)
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('rr1586',100,30,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('rt3118',100,30,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ru3590',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ry2121',100,100,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ry8911',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('s-2878',100,30,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:00]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sg6926',100,1300,10,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:01]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si1166',100,60,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:01]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si1963',100,30,2,0)
+
+실행 완료. Time used: 10 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si3904',100,90,9,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si5299',100,30,2,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si6083',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('si7096',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sj2915',100,60,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sj5922',100,30,3,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sl7764',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sl9476',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sm5498',100,60,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sn1646',100,30,6,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('so1808',100,130,7,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('so5362',100,30,8,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('so7332',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('so9887',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:02]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sr4342',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sr7897',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sr8443',100,200,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ss1396',100,30,5,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('su1161',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('su2217',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('su8398',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sw2588',100,60,6,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('sy1186',100,60,2,0)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tc1336',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tc9803',100,200,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('te3663',100,30,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:53:03]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('te8231',100,30,11,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('th2237',100,60,2,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('TJ4335',100,60,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tk6389',100,100,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:04]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tm2784',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tm6507',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tn1463',100,90,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tn7752',100,30,2,50)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tn8972',100,300,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('to3299',100,30,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:05]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('tr6544',100,130,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('UA3021',100,30,6,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ud1419',100,60,12,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uh2263',100,30,12,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uj5037',100,30,12,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uJ5882',100,30,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uj7546',100,30,4,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('um9479',100,30,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:06]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('un9392',100,1030,3,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uo3089',100,300,4,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uo3942',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('up4299',100,30,2,0)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('us3557',100,60,6,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('us6305',100,30,77,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('uy1593',100,90,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('vd2337',100,90,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ve9069',100,30,6,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wc2699',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:07]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wd2588',100,100,17,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wd9623',100,60,3,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wg3290',100,60,3,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wh2056',100,400,2,0)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:53:08]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wk3376',100,60,4,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wk4526',100,30,5,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wl6808',100,500,9,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wn5645',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('wo1887',100,200,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('xa2357',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('XA9776',100,100,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('xe5677',100,90,7,0)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yd8435',100,60,4,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('ye8802',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yh1809',100,100,25,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yi2402',100,60,2,0)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yi7908',100,30,8,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yk6960',100,30,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:09]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yk7760',100,130,2,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('YL2829',100,30,4,0)
+
+ORA-02291: integrity constraint (LEE.FK_포인트_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yn9663',100,60,4,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('yp4236',100,30,5,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('zr6779',100,30,3,0)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > INSERT INTO POINT(USERID,MEMBER,PRODUCT,LOGIN,POLL) VALUES ('zz5785',100,30,2,0)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:53:10]==========================
+
+SQL > COMMIT
+
+실행 완료. Time used: 6 Millis

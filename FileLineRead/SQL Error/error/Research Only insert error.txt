@@ -1,0 +1,280 @@
+==========================[Start Time : 2022/07/02 13:54:28]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('dl2077',1,TO_DATE('2000/07/06 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('jo9585',1,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('as2634',0,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:33]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('276214',1,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('kk7114',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:35]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('si1166',1,TO_DATE('2000/06/22 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:37]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oa5789',1,TO_DATE('2000/06/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:45]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('bo5728',1,TO_DATE('2000/06/17 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:46]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('YL2829',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:47]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('UA3021',0,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:50]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('804264',1,TO_DATE('2000/11/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:51]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('422528',1,TO_DATE('2000/06/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:53]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('az6396',1,TO_DATE('2000/06/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('nu4891',1,TO_DATE('2000/06/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:55]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('2g1410',1,TO_DATE('2000/10/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:56]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('is4207',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:54:58]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ne6391',1,TO_DATE('2000/11/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:00]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('wk4526',1,TO_DATE('2000/06/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:01]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ik1686',1,TO_DATE('2000/07/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:04]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ar6737',1,TO_DATE('2000/06/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:05]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('oz2803',0,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:07]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('co7789',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:08]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('401303',1,TO_DATE('2000/10/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:09]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('og6675',1,TO_DATE('2000/07/03 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:11]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('hc9689',1,TO_DATE('2000/06/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:13]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('ic2169',1,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:17]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('od7816',1,TO_DATE('2000/06/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:20]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('er6056',0,TO_DATE('2000/06/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:23]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('th2237',1,TO_DATE('2000/11/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:24]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('889021',0,TO_DATE('2000/10/21 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:27]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('uo3089',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:29]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('mh7104',1,TO_DATE('2000/06/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:30]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('661107',1,TO_DATE('2000/07/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:31]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('gi1715',1,TO_DATE('2000/10/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:55:34]==========================
+
+SQL > INSERT INTO RESEARCH(USERID,ANSWER,REGDATE) VALUES ('am1965',1,TO_DATE('2000/06/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_설문_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+

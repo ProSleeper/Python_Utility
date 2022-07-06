@@ -1,0 +1,2421 @@
+==========================[Start Time : 2022/07/02 13:50:00]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wo1887','라이스컴','마켓팅팀','임시직',888000)
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('xa2357','먹거리분식','기획실','대리',1533000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('XA9776','학생','학생','사원',1256000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('xe5677','방송대학위성TV','TV제작부','차장',1975000)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yd8435','스카이산전','기술지원팀','대리',1557000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ye8802','중앙일보','영업팀','차장',1951000)
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yh1809','롯데월드','시설부','사원',1240000)
+
+실행 완료. Time used: 12 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yi2402','현주 시스템','기술지원팀','차장',1967000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yi7908','현대정보기술','영업팀','이사',2521000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yk6960','명지대','전자공','차장',1999000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yk7760','삼성코닝','경영기획팀','이사',2521000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('YL2829','시스템게이트(주))','사업기획실','임시직',896000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yn9663','법무사무실','마켓팅팀','과장',1718000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('yp4236','중앙일보','영업팀','차장',1951000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('zr6779','영남대학교','전기공학과','사원',1264000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('zz5785','아남전자','자재부','부장',2204000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:04]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ak9529','동국대학교','화학공학과','계약직',1747000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:05]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('al1276','(주) 컴스빌','고객지원부','부장',2252000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:05]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('al3324','아남전자','자재부','사원',1224000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('am1965','중흥건설','건축부','과장',1710000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('am2512','경희대학교','조경학과','계약직',1771000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('am2949','LG기공(주)','부산영업소','차장',1983000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('am7703','스피드 011','경리부','차장',1935000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('an8233','대아기획','디자인실','부장',2268000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ap5832','금성 에어컨','경리부','이사',2585000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ap7783','삼성시스템','생산부','임시직',936000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ar1451','미래 기획','마켓팅팀','사원',1288000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ar3491','법무사무실','마켓팅팀','과장',1718000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:06]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ar3920','(주)한국샤프','품질관리부','이사',2585000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:07]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ar6737','대구과학대학','정보전자통신','계약직',1787000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:08]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('as2634','캐드플러스','설계','임시직',880000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:08]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('at1606','유진전산','영업부','임시직',888000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:08]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('at1862','아남전자','자재부','부장',2284000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:08]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('at2434','금성 에어컨','경리부','이사',2545000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:08]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('aw4090','웅진출판사','기획실','차장',1943000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('az6396','헬로우 시스템정보','자재부','임시직',944000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ba5570','에스에스 이코노샵','자재부','임시직',944000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bm1489','대우전자','기획실','차장',1903000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bm3050','중앙일보','영업팀','차장',1951000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bm7191','국민대학교','자동차공학과','부장',2260000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:09]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bn4468','S.N.U.','기술팀','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bo5728','거제대학','전자과','부장',2220000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bo6993','기중 중공업','비서실','차장',1959000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bo8451','미래 기획','마켓팅팀','부장',2228000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bo8726','현대 컴퓨터','생산부','사원',1256000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('bs4796','금성 에어컨','경리부','이사',2505000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('cc5811','원곡고등학교','기술지원팀','계약직',1747000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:11]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ch1224','아남전자','자재부','사원',1264000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:12]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ci8007','다사랑닷컴','시스템사업부','사원',1256000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:12]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('cn4101','한주철관','영업팀','대리',1581000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:12]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('cn5409','진주시청','회계과','임시직',912000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:12]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('co1576','전북대학교','조경학과','차장',1927000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('co7789','만도기계','생산부','과장',1766000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('cy2540','먹거리분식','기획실','이사',2513000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('da7763','대우전자','기획실','차장',1943000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('de5852','아남전자','자재부','부장',2244000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('de6122','한국HP','인사팀','부장',2260000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('df2893','중앙대학교','경영대학','이사',2593000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dg9647','미래학교','교육팀','사원',1296000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dh4695','먹거리분식','기획실','대리',1533000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:13]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dj9811','(주)신맥','영업부','이사',2545000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dl2077','풍경 스튜디오','홍보부','과장',1702000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dm6931','(주)포스콘','제강제어팀','과장',1726000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('dn8899','삼성안경','생산부','부장',2236000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ds2966','스피드 011','경리부','계약직',1715000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('e18877','법무사무실','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ea2610','(주)데이타콤대구','SI사업팀','대리',1597000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ed2400','만도기계','생산부','임시직',896000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ee2811','한국표준과학연구원','전자기표준부','계약직',1795000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:14]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ee5211','현주 시스템','기술지원팀','계약직',1787000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ee6960','호전조림','조경팀','사원',1264000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('EE9224','현대자동차 서비스','홍보부','과장',1782000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('eg7086','인하공전','조선과','과장',1758000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('eg8080','(주)태흥전기통신','공사부','대리',1589000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ei3379','중앙정보기술','영업부','대리',1589000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ei6538','인텍창업투자(주)','투자팀','대리',1525000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('el3409','현대자동차 서비스','홍보부','과장',1702000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('en4557','중부대학교','경상학부','부장',2212000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:15]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('er3467','삼성전자 대리점','인사팀','부장',2260000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('er6056','(주)이션정보시스템','시스템기술','이사',2537000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('et5444','현주 시스템','기술지원팀','계약직',1787000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('et6068','(주)석천건전','사무','차장',1999000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('eu9193','한국 방송 대학교','농학과','차장',1927000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ev3310','스피드 011','경리부','계약직',1755000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ez6668','법무사무실','마켓팅팀','과장',1758000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('fg4124','(주)원형건축사사무소','설계실','사원',1248000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:16]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('fl6284','현대 컴퓨터','생산부','부장',2276000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('FO4890','한텍시스템','SM1 팀','계약직',1747000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('fu3482','현주 시스템','기술지원팀','계약직',1707000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ga1478','조선신문','홍보부','부장',2292000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ga9687','대우자동차','생산부','과장',1766000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ge8720','(주)일양','영업팀','차장',1991000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gg1760','(주)해라시스템','연구개발팀','임시직',944000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gg5595','서울예전','연극과','계약직',1755000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gg7329','삼성SDS','기술지원팀','계약직',1747000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:17]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gh2998','법무사무실','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gi1715','혜성컴퓨터','비서실','계약직',1739000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gi6517','경덕전자','연구개발팀','대리',1557000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gi8764','우리닷컴','비서실','이사',2569000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gj9748','삼성제약공업(주)','경영지원팀','차장',1943000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gk8385','삼성전기','업체지원','차장',1959000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn2308','현대자동차 서비스','홍보부','임시직',912000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:18]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn2565','삼성전자','LCD4과','차장',1975000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn3287','스피드 011','경리부','차장',1975000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn4174','삼성전자 대리점','인사팀','사원',1280000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn5733','중앙일보','영업팀','차장',1991000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gn9380','김천중앙고등학교','경리부','계약직',1715000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('gw8508','(주)파워-텍','감사','사원',1224000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('h17666','한국방송대','방송정보학과','이사',2577000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hc3863','삼양출판사','기술지원팀','이사',2537000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hc5451','순천향대학교','전자공학과','이사',2537000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:19]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hc8023','이미지웍 스튜디오','사진','이사',2585000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hc9689','만도기계','생산부','임시직',856000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hg3791','두레밗','관리부','계약직',1747000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hm6603','먹거리분식','기획실','대리',1573000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ho1623','신안기업','인사팀','사원',1200000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hs9490','레미트로닉스코리아','자재부','부장',2284000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hs9578','현대정보기술','영업팀','이사',2561000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ht9567','삼양출판사','기술지원팀','대리',1597000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:20]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hw7969','동국대학교전자계산원','전자계산학과','이사',2513000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('hy3762','중앙일보','영업팀','차장',1991000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ib3663','한영시스템즈','기술부','대리',1597000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('id5947','현주 시스템','기술지원팀','계약직',1747000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('if7400','서경직업전문학교','교무','임시직',928000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ih1183','아시아나항공','시스템운영팀','이사',2561000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ih3131','롯데리아','인천백운점','계약직',1787000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ih4728','우리닷컴','비서실','대리',1589000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ih9389','현대자동차 서비스','홍보부','과장',1742000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:21]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ik1402','세일시스템(주)','개발부','계약직',1787000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ik1686','법무사무실','마켓팅팀','과장',1798000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ik3837','부산동의공업대학','전산과','임시직',880000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('il1470','충북대학교','지리교육과','부장',2276000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('il1594','현대자동차 서비스','홍보부','과장',1742000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('il4705','서원대학교','광고홍보학과','대리',1501000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('IL5748','강남중학교','교육팀','과장',1766000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('im2229','현대정보기술','영업팀','대리',1541000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:22]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sl7764','중앙대학교','원예육종학과','대리',1565000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sl9476','먹거리분식','기획실','이사',2593000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sm5498','엘지소프트','인사팀','과장',1750000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sn1646','헬로우 시스템정보','자재부','과장',1774000)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('so1808','한신대학교','정보통신학과','차장',1975000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('so5362','이마트 분당점','5층 주차팀','차장',1991000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('so7332','보루네오','전산부','대리',1589000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sr4342','서산농공업고등학교','경리부','계약직',1795000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sr7897','경희대학교','전자정보학부','과장',1750000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ss1396','동아대학교','해양공학과','임시직',944000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('su1161','엘지소프트','인사팀','과장',1790000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('su2217','주)브라이트 시스템즈','IP-CP 사업부','계약직',1755000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('su8398','미래 기획','마켓팅팀','사원',1248000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:23]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sw2588','부산교통공단','호포창 검수부','차장',1919000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:24]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sy1186','현대자동차 서비스','홍보부','과장',1702000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:24]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tc1336','경북대학교','공업화학과','부장',2204000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:24]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tc9803','헬로우 시스템정보','자재부','임시직',864000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:24]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('te3663','화천고','2학년2반','부장',2212000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:24]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('te8231','삼성전자 대리점','인사팀','사원',1240000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('th2237','오리엔트정보통신(쭈)','영업팀','이사',2561000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('TJ4335','금성 에어컨','경리부','이사',2585000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tk6389','경일대','섬유과','사원',1216000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tm2784','현대자동차 서비스','홍보부','과장',1782000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tm6507','다나출판','시스템관리','임시직',896000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tn7752','고려대학교','전자공학과','과장',1718000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tn8972','우리닷컴','비서실','이사',2569000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('to3299','현대 컴퓨터','생산부','부장',2276000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:25]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('tr6544','우리닷컴','생산팀','대리',1549000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('UA3021','삼양출판사','기술지원팀','이사',2577000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ud1419','먹거리분식','기획실','이사',2553000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uh2263','삼경화학','마켓팅팀','임시직',888000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uj5037','한국통신','교환기술과','계약직',1723000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uJ5882','동의대학교','전산통계','차장',1975000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uj7546','헬로우 시스템정보','자재부','과장',1734000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('um9479','삼성전자 대리점','인사팀','사원',1200000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:26]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('un9392','오즈모스','마켓팅팀','사원',1288000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:27]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uo3089','(주) 고합','생산2UNIT','계약직',1771000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:27]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uo3942','psk tech(주)','연구소','부장',2244000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('up4299','현대자동차 서비스','홍보부','과장',1782000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('us3557','현승정보기술(주)','기획실','계약직',1763000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('us6305','조선신문','홍보부','사원',1272000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('uy1593','대우전자','기획실','차장',1983000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('vd2337','금성 에어컨','경리부','이사',2545000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ve9069','스피드 011','생물학과','계약직',1755000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wc2699','조선신문','홍보부','부장',2212000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wd2588','기중 중공업','비서실','계약직',1739000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wd9623','(주)한국정보시스템','공공팀','대리',1501000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wg3290','현대정보기술','영업팀','이사',2521000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wh2056','현주 시스템','기술지원팀','차장',1927000)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:50:28]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wk3376','성균관대학교','자연과학부','차장',1919000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wk4526','시지삼승교회','자재부','임시직',864000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('wl6808','아남전자','자재부','부장',2204000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('im7571','언더존 pc게임방','홍보부','과장',1782000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('in3500','파워시스템','영업팀','계약직',1731000)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('in6926','상지 영서대','경영정보','부장',2292000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kb6412','아남전자','자재부','부장',2284000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:29]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kf4163','현대정보기술','영업팀','이사',2521000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kg3911','봉명신협','경리부','이사',2505000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kl7551','연대원주의대','의학과','계약직',1771000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('km5945','대우전자','기획실','계약직',1723000)
+
+실행 완료. Time used: 9 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kn5718','대구대영유치원','인사팀','과장',1750000)
+
+실행 완료. Time used: 8 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kn9808','현대정보기술','영업팀','대리',1541000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ko8236','방송대','무역학과','이사',2505000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ko9495','주)청해진해운','업무팀','계약직',1723000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kp2617','부산 남구청','건설과','사원',1272000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('kr1257','현대정유(주)','기술설게부','사원',1280000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ku4159','미래 기획','마켓팅팀','부장',2268000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ku8373','백건축사사무소','경리부','이사',2545000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lb2318','한국기술산업대','자동화공학과','임시직',920000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:30]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lb2500','폴리테크','자재부','과장',1774000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lb4134','중앙일보','영업팀','차장',1991000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lb4815','국민대학교','자동차공학과','부장',2276000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('le1118','중앙일보','영업팀','차장',1911000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('le2151','만도기계','생산부','과장',1766000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('li2185','현대정보기술','영업팀','이사',2521000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('li5598','(주)태산씨엔씨','영업부','차장',1975000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lo7422','중앙일보','영업팀','계약직',1731000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lp2369','아남전자','자재부','사원',1264000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ls2357','만도기계','생산부','과장',1726000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ls9806','우리닷컴','비서실','대리',1549000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lu6433','주)성원','생산부','대리',1557000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('lu8345','(재)한국재난연구원','건축실','임시직',864000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:31]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ma2371','만도기계','생산부','임시직',856000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('006582','해양수산부','총무과','계약직',1763000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('012676','현주 시스템','기술지원팀','차장',1967000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('015810','연세대학교','전기공학과','차장',1991000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('017625','서원정형외과','방사선과','차장',1919000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('018000','서강대학교','화학과 4년','임시직',896000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('022913','기중 중공업','비서실','차장',1999000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('026899','아남전자','자재부','부장',2204000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('028325','삼양출판사','기술지원팀','대리',1557000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('058009','먹거리분식','기획실','이사',2593000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:32]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('074210','net','자재부','과장',1734000)
+
+실행 완료. Time used: 11 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('077213','한국fuji xerox','기술과','부장',2228000)
+
+실행 완료. Time used: 11 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('096231','삼양출판사','기술지원팀','이사',2537000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('0a7687','현대정보기술','영업팀','이사',2521000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('0d1130','삼보기술단','기술연구소','대리',1581000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('122248','기중 중공업','비서실','차장',1919000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('144839','경산대학교','정보과학부','과장',1766000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('155251','(주)유니텍','CBT 영업부','대리',1525000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('173180','위덕대학교','컴퓨터공학과','차장',1943000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('199230','대우전자','기획실','계약직',1723000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1a2536','뉴페이스 게임방','기획실','차장',1943000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1d5382','법무사무실','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1g8573','제룡산업(주)','관리팀','임시직',896000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1l1360','숙대','화학과','부장',2292000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:33]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1m4623','PhotoNow','광고사진팀','사원',1200000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1r3223','헬로우 시스템정보','자재부','과장',1734000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('1s8180','삼성전자 대리점','인사팀','사원',1200000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('218706','현대정보기술','영업팀','대리',1501000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('231118','풍림산업(주)','정보전산팀','과장',1798000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('234011','엘지소프트','인사팀','과장',1710000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:34]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('256764','두루엔지니어링','기술영업부','부장',2284000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:35]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('276214','동국대','영업팀','이사',2561000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:35]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('288369','남부지청','기획실','이사',2593000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:35]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2e7631','(주)세일운수','관리','부장',2236000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2g1410','벙인성계','영업팀','부장',2276000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2h3874','기중 중공업','비서실','차장',1999000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2h6034','중앙일보','영업팀','차장',1951000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2m2106','대한전선(주)','전력영업팀','임시직',920000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2n2712','피자짱','대표','차장',1983000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2n3814','한국동광(주)','전산과','과장',1742000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2s7257','부천북고등학교','영업팀','차장',1991000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('2y6347','동덕정보통신','자재부','임시직',944000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('302384','만도기계','생산부','과장',1726000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:36]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('322458','주)지아이링크','자재부','과장',1774000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('336487','중산고등학교','마켓팅팀','임시직',888000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('343234','강남대학교','경영학부','이사',2521000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('354635','모리모리','홍보부','과장',1742000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('376207','서남대','물리치료학과','임시직',936000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('377484','한림대학교 성심병원','약제부','임시직',944000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('3d2346','경북대학교','전자공학과','사원',1224000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('3I6790','삼성전자 대리점','인사팀','부장',2260000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('3n3028','금성 에어컨','경리부','이사',2545000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('3n6260','상명대학교','정보통신학부','대리',1541000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:37]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('401172','광우','영업팀','계약직',1731000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:38]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('401303','쌍용정보통신','대구지사','사원',1224000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:38]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('404139','세영','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:38]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('407613','무직','무직','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:38]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('409842','가자기술','영업부','이사',2529000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:39]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('409941','금성 에어컨','경리부','대리',1525000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:39]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('418571','현대자동차 서비스','홍보부','과장',1742000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:39]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('422528','현대자동차 서비스','홍보부','과장',1702000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('441646','세영정보서비스','제품개발실','과장',1702000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('466748','만도기계','생산부','임시직',896000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('4m4305','현주 시스템','기술지원팀','계약직',1747000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('4n1268','홍익대학교','컴퓨터공학과','차장',1967000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('522635','현대 컴퓨터','생산부','부장',2236000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('527081','조선신문','홍보부','사원',1272000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('533555','기중 중공업','비서실','계약직',1779000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('537269','동의대학교','행정학과','사원',1272000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('5s1800','경북관광개발공사','기획전산부','부장',2268000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('609701','현대자동차 서비스','홍보부','임시직',912000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('611051','(주)유천엔지니어링','영업부','차장',1999000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:40]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('642846','서울대학교 의과대학','의학과','대리',1533000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('661107','JSMEDIA','BBS팀','계약직',1723000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('666926','싸이텍','영업팀','대리',1581000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('6s3540','기중 중공업','비서실','차장',1959000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('702792','기중 중공업','비서실','계약직',1739000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('765689','이화여대','국문과','계약직',1779000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:41]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('771922','조선신문','홍보부','부장',2252000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:42]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('777486','대우전자','기획실','차장',1903000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:42]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('799915','현대 컴퓨터','생산부','부장',2236000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:42]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('7k2268','삼성전자 대리점','인사팀','부장',2220000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:42]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('804264','먹거리분식','기획실','이사',2593000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('807970','광주교대','미술과','차장',1983000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('808749','체이스컴퓨터 (주)','생산부','과장',1766000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('821134','중앙일보','영업팀','계약직',1731000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('841883','엘지소프트','인사팀','임시직',920000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('861079','한국호진공업(주)','영업부','임시직',880000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('861381','프리렌서 웹 디자이너','홍보부','과장',1742000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('874641','한남대학교','컴퓨터공학과','계약직',1795000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('877187','한양대학교','건축공학과','차장',1999000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('886626','i.c.d.디자인','인사팀','사원',1240000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:43]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('888970','삼양출판사','기술지원팀','이사',2537000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('889021','대우건설','설계팀','이사',2545000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('896047','광양시청','총무과','사원',1264000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('8e8321','믿음컴퓨터','개발부','사원',1248000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('8i7164','아남전자','자재부','사원',1224000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('907284','(주)케이티아이','경리부','계약직',1755000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('917599','현대정보기술','영업팀','대리',1541000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('918517','스피드 011','경리부','차장',1935000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:44]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('919648','만도기계','생산부','과장',1766000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('953075','기중 중공업','비서실','차장',1959000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('956758','스피드 011','경리부','계약직',1715000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('978072','미래 기획','마켓팅팀','사원',1248000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('996580','대우전자','기획실','계약직',1723000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('996958','엘지제일주유소','자재부','과장',1734000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('997676','법무사무실','마켓팅팀','임시직',888000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('9h9746','성균관대학교','국어국문학과','대리',1597000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('a21955','현대 컴퓨터','생산부','사원',1296000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ad6159','현대 컴퓨터','생산부','사원',1296000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ad7234','하나측기사','프로그램','부장',2284000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ae3370','미래 기획','마켓팅팀','사원',1248000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ae6521','상명대학교','의상디자인','과장',1710000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:45]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ah6539','동국화공(주)','INS사업부','사원',1224000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ah8373','현대자동차 서비스','홍보부','과장',1702000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ah8533','만도기계','생산부','과장',1726000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ai6542','신정 시스템','기획실','계약직',1723000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('aj8540','(합)신한측량기술공사','설계부','임시직',944000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ak1030','아남전자','자재부','부장',2284000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ak5833','중앙일보','영업팀','차장',1911000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ak6066','대한교과서(주)','경영정보팀','과장',1790000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('io3439','현대정보기술','영업팀','대리',1541000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('io3942','기중 중공업','비서실','계약직',1739000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('io8542','기중 중공업','비서실','차장',1999000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('io9788','대우전자서비스','서비스','이사',2593000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ip6440','먹거리분식','기획실','이사',2593000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:46]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ip6600','서울대학교','전산과','대리',1597000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:47]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ir1459','대우전자','기획실','계약직',1763000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:47]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ir7126','조선신문','홍보부','부장',2252000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:47]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('is3746','포항제철','냉연부','이사',2553000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('is4207','흥광종합건설(주)','경리부','차장',1935000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('is5728','만도기계','생산부','임시직',896000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('iu1803','미래 기획','마켓팅팀','사원',1288000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('iu4047','엘지소프트','인사팀','과장',1750000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('je1794','아산교육청','관리과','사원',1256000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('jj9116','기륭전자(주)','디지콤사업팀','차장',1903000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('jm3355','현대 컴퓨터','생산부','사원',1256000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:50:48]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('jn7502','(주)송경토건','환경사업부','이사',2569000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:49]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('jo9585','ENC 대하 (주)','기술 영업부','사원',1296000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:49]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('jw4746','우리닷컴','비서실','대리',1509000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:49]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ka4051','sk산업','기획실','이사',2593000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ka6808','제이시스템','시스템사업부','임시직',928000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ma5759','아남전자','자재부','부장',2204000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ma5887','팔미시스템','마켓팅팀','과장',1718000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('md3532','우송대','컴디과','대리',1589000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('me7742','우리닷컴','비서실','대리',1509000)
+
+실행 완료. Time used: 50 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mg5700','우리닷컴','비서실','대리',1509000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:50]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mh3020','지민산업','생산관리부','이사',2593000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mh7104','미래 기획','마켓팅팀','사원',1288000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mh7131','삼양출판사','기술지원팀','이사',2537000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi1964','현대자동차 서비스','홍보부','임시직',872000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi2834','미래 기획','마켓팅팀','사원',1288000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi2937','우리닷컴','비서실','대리',1589000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi6840','기중 중공업','비서실','계약직',1739000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi8784','상인양행','자재부','과장',1774000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mi9323','아남전자','자재부','부장',2204000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:51]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ml8878','기중 중공업','비서실','차장',1959000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mm5702','(주)에프앤케이','경영지원팀','계약직',1747000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mo4840','현대 컴퓨터','생산부','사원',1296000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mo8322','20전투비행단','영업팀','대리',1501000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ms1580','현대택배(주)','벌크영업부','임시직',928000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ms4374','삼성전자 대리점','인사팀','부장',2260000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('mt3362','금파 공고','전자과','이사',2513000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('na2486','삼성생명','노블카운티','계약직',1795000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('na4477','우리닷컴','비서실','이사',2569000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('na8103','TETRA','마켓팅팀','부장',2228000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('na8637','아남반도체','품질보증','과장',1718000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ne6444','아남전자','자재부','부장',2244000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ni1866','유한대학','전자계산과','사원',1216000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:52]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ni1981','동양공업전문대학교','건축과','계약직',1739000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ni2739','전주대학교','컴퓨터공학과','이사',2545000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ni8274','먹거리분식','기획실','이사',2593000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nj2693','현주 시스템','기술지원팀','계약직',1787000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nn4942','고인돌','자재부','사원',1224000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('no3372','우리OA시스템','영업A/S팀','부장',2204000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('no5694','hmc','santamo','차장',1967000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('no6706','금성 에어컨','경리부','대리',1565000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('no8298','한아정보통신','인사팀','사원',1200000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:53]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('NU1840','우리닷컴','비서실','대리',1509000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nu4891','대우전자','기획실','계약직',1723000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nu5950','백상치과의원','영업팀','계약직',1771000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nu7267','경일대학교','사진영상학과','차장',1991000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nu7494','파가니','기술지원팀','대리',1597000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nu7634','삼성항공','엔진연구소','임시직',936000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:54]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('nw2201','백제여자상업고등학교','교무과','사원',1248000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oa5789','형설','총무','부장',2260000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ob5933','경안고등학교','기술지원팀','차장',1967000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('OB7387','중앙일보','영업팀','차장',1991000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oc5334','엠커머스','BIZ-홍보','부장',2212000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oc9166','헬로우 시스템정보','자재부','임시직',864000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:55]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('od2317','중앙고속','운전팀','부장',2260000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:56]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('od7816','우리닷컴','비서실','대리',1549000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:56]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oe1685','인넷 코리아','지원부','계약직',1723000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('og6675','문영여고','경리부','계약직',1715000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('og7200','경북대학교 의과대학','기생충학교실','대리',1581000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh2320','영진 컴마트','기술부','임시직',896000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh2395','삼흥테크','기술개발','대리',1501000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh5128','앰코테크놀로지코리아','제조1팀1과','부장',2204000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh5566','헬로우 시스템정보','자재부','과장',1734000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh6860','삼성전자 대리점','인사팀','사원',1200000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oh7225','삼성전자 대리점','인사팀','부장',2260000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oi5686','성일컴퓨터','비서실','이사',2529000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ol9423','삼양출판사','기술지원팀','대리',1557000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('om6846','스피드 011','경리부','계약직',1715000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('om7766','만도기계','생산부','과장',1726000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('on1224','대우전자','기획실','계약직',1723000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('on3988','현대자동차 서비스','홍보부','과장',1742000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:58]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oo3234','삼성전자','인사팀','과장',1710000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oo6693','금성 에어컨','경리부','이사',2545000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('or3364','pe biosystems','자재부','부장',2284000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('OR6680','(주)서신엔지니어링','영업부','계약직',1755000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('os8139','만도기계','생산부','과장',1766000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ot1194','먹거리분식','기획실','대리',1533000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ot3760','현대정보기술','영업팀','대리',1581000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ot9118','미래 기획','마켓팅팀','부장',2228000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ot9678','프로젝터21','기술/영업','사원',1224000)
+
+실행 완료. Time used: 2 Millis
+==========================[Start Time : 2022/07/02 13:50:59]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ow5074','성남전기공업(주)','경리부','이사',2505000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:00]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('oz2803','조선신문','홍보부','부장',2212000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:51:00]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('pa3549','중앙일보','영업팀','차장',1951000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:51:00]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('pa5935','미래 기획','마켓팅팀','부장',2228000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:51:00]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ph9325','금성 에어컨','경리부','대리',1565000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('pl5074','중앙일보','영업팀','계약직',1731000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('pn4122','법무사무실','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ps1075','건국대학교','전산과학과','임시직',936000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ps5978','세원전자','기술부','차장',1983000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ra2231','여수농협','기획실','계약직',1763000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ra6587','프리즘','에스엠알','계약직',1731000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('RA7193','법무사무실','마켓팅팀','과장',1798000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('re1561','KBS','편성정책','사원',1256000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ro7523','헬로우 시스템정보','자재부','과장',1774000)
+
+실행 완료. Time used: 7 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('rp9890','한컴교육나라','관리부','이사',2537000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('rr1586','삼양출판사','기술지원팀','이사',2577000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:01]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('rt3118','현대 컴퓨터','생산부','사원',1296000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:02]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ru3590','업다운컴퓨터','생산부','사원',1240000)
+
+실행 완료. Time used: 6 Millis
+==========================[Start Time : 2022/07/02 13:51:02]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ry2121','현대 자동차','비서실','이사',2529000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:02]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('ry8911','삼양출판사','기술지원팀','이사',2577000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:51:02]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('s-2878','중앙대학교','독어독문학과','임시직',864000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:51:02]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sg6926','단국대학','법학과','과장',1734000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si1166','한국델파이새마을금고','업무팀','이사',2561000)
+
+ORA-02291: integrity constraint (LEE.FK_회사정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si1963','엘지소프트','인사팀','과장',1710000)
+
+실행 완료. Time used: 5 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si3904','(주)케이티링크','자재부','과장',1734000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si5299','고려대학교','행정학과','사원',1224000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si6083','인천제철(주)','ROLL 제조부','과장',1718000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('si7096','고려대','자재부','임시직',944000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sj2915','현대반도체','화학분석part','이사',2545000)
+
+실행 완료. Time used: 3 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > INSERT INTO COMPANY(USERID,COMPANY,DEPT,POSIT,PAY) VALUES ('sj5922','(주)고합','생산1팀 중합','과장',1750000)
+
+실행 완료. Time used: 4 Millis
+==========================[Start Time : 2022/07/02 13:51:03]==========================
+
+SQL > COMMIT
+
+실행 완료. Time used: 4 Millis

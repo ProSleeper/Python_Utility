@@ -1,0 +1,416 @@
+==========================[Start Time : 2022/07/02 13:56:52]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('YL2829','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:56:55]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('ic2169','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/09/13 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:56:56]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('wk4526','HP 데스크젯 930C',402000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:56:58]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('804264','HP 데스크젯 930C',402000,0,TO_DATE('2000/09/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:56:59]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('co7789','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:00]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('th2237','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:02]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('ne6391','HP 데스크젯 930C',402000,0,TO_DATE('2000/05/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:02]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('2g1410','HP CD-Writer Plus 8100i',176000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:03]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('mh7104','HP CD-Writer Plus 9310i',254000,0,TO_DATE('2000/09/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:07]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('bo5728','HP 데스크젯 930C',402000,0,TO_DATE('2000/05/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:09]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('th2237','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:11]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('ik1686','HP 데스크젯 810C',334000,0,TO_DATE('2000/03/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:12]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('si1166','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/05/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:13]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('oa5789','HP 데스크젯 930C',402000,0,TO_DATE('2000/05/04 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:23]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('as2634','HP 데스크젯 810C',334000,0,TO_DATE('2000/01/11 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:25]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('dl2077','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:26]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('dl2077','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/10/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:27]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('dl2077','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/12/18 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:27]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('od7816','HP CD-Writer Plus 8250i',148800,20,TO_DATE('2000/12/29 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:28]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('er6056','HP 스캔젯 5300C',367000,0,TO_DATE('2000/01/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:33]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('is4207','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/06/28 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:34]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('og6675','HP 데스크젯 930C',402000,0,TO_DATE('2000/09/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:35]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('ar6737','HP 데스크젯 810C',334000,0,TO_DATE('2000/09/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:37]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('is4207','HP 스캔젯 3300C',254000,0,TO_DATE('2000/03/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:38]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('gi1715','HP 데스크젯 710C',315000,0,TO_DATE('2000/03/15 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:39]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('nu4891','HP 데스크젯 810C',334000,0,TO_DATE('2000/03/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:40]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('nu4891','HP 스캔젯 3300C',254000,0,TO_DATE('2000/09/07 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:42]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('gi1715','HP CD-Writer Plus 9100i',182700,10,TO_DATE('1999/12/31 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:43]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('276214','HP 데스크젯 660K',280000,0,TO_DATE('2000/04/12 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:44]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('889021','HP CD-Writer Plus 8250i',186000,0,TO_DATE('2000/10/08 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:52]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('ik1686','HP CD-Writer Plus 9100i',203000,0,TO_DATE('2000/09/20 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:53]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('661107','HP 데스크젯 930C',402000,0,TO_DATE('2000/09/26 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:53]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('661107','HP 데스크젯 930C',402000,0,TO_DATE('2000/09/30 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:54]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('bo5728','HP 데스크젯 930C',402000,0,TO_DATE('2000/10/19 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:55]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('bo5728','HP 데스크젯 930C',402000,0,TO_DATE('2000/11/14 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:57:58]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('am1965','HP 데스크젯 930C',402000,0,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:03]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('422528','HP 데스크젯 930C',402000,0,TO_DATE('2000/01/05 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:04]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('422528','HP 데스크젯 930C',402000,0,TO_DATE('2000/02/23 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:07]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('hc9689','HP 데스크젯 710C',315000,0,TO_DATE('2000/02/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:10]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('kk7114','HP 데스크젯 810C',334000,0,TO_DATE('2000/07/02 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:11]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('uo3089','HP 데스크젯 420',245000,0,TO_DATE('2000/10/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:13]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('od7816','HP 데스크젯 970Cxi',417000,0,TO_DATE('2000/01/10 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:16]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('UA3021','HP 스캔젯 5300C',367000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:19]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('UA3021','HP 스캔젯 5300C',367000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:20]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('oz2803','HP 데스크젯 810C',334000,0,TO_DATE('2000/05/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:21]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('401303','HP 스캔젯 5300C',367000,0,TO_DATE('2000/10/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:23]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('401303','HP 데스크젯 970Cxi',417000,0,TO_DATE('2000/10/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:26]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('401303','HP 스캔젯 5300C',367000,0,TO_DATE('2000/10/01 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:28]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('jo9585','HP 데스크젯 810C',334000,0,TO_DATE('2000/10/09 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:30]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('bo5728','HP 데스크젯 930C',402000,0,TO_DATE('2000/05/25 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:31]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('az6396','HP 스캔젯 6350C',435000,0,TO_DATE('2000/02/24 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
+==========================[Start Time : 2022/07/02 13:58:32]==========================
+
+SQL > INSERT INTO SALES(USERID,PRODUCTNAME,PRICE,DISCOUNT,BUYDATE) VALUES ('az6396','HP 데스크젯 970Cxi',417000,0,TO_DATE('2000/02/27 15:00:00', 'YYYY-MM-DD HH24:MI:SS'))
+
+ORA-02291: integrity constraint (LEE.FK_판매정보_고객정보) violated - parent key not found
+Error code: 2291
+SQL state: 23000
+
