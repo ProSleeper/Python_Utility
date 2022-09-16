@@ -8,7 +8,8 @@ import os
 # 여기서 더 추가하자면 유튜브 동영상 추가처럼 마우스로 끌어와서 변환시키는 정도만 추가하면 괜찮을듯?
 # 아니면 윈도우 창을 띄워서 마우스로 끌어와서 추가하면 자동으로 원래 있던 폴더에 해주는 것도 괜찮고
 
-imageList = glob.glob('C:\\Users\\ingn\\Documents\\LIKEITMUSIC\\7월\\##############작업할 노래\\**\\*.jpg', recursive = True)
+//경로
+imageList = glob.glob('C:\\Users\\ingn\\Documents\\LIKEITMUSIC\\9월\\##############작업할 노래\\**\\*.jpg', recursive = True)
 
 for item in imageList:
     resizeImageList = list()
