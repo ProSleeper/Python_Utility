@@ -9,11 +9,11 @@ class MainWidget(QMainWindow):
     def __init__(self, parent=None):
         super(MainWidget, self).__init__(parent)
 
+        # 클래스로 만들어 둔 텍스트에디터와 버튼을 현재의 window에 추가시키기 위한 코드
         plain = FileDragAndDropPlain(self)
         ConvertButton(self, plain);
 
         self.setWindowTitle('likeMusicConverter')
-        
         self.setFixedSize(500, 400)
         self.center();
         self.show()
