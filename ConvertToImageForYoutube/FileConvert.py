@@ -16,7 +16,7 @@ class FileConverter:
         ALBUM_FILE_NAME = "앨범.png"
 
         resizeImageList = list()
-        reverseItemPath = path.rfind("\\")
+        reverseItemPath = path.rfind("/")
         reverseItemPath = path[0:reverseItemPath+1]
         
         img_array = np.fromfile(path, np.uint8)
@@ -48,8 +48,9 @@ class FileConverter:
                 #     d_path = os.path.join(root, d)
                 #     print(d_path)
                 for file in files:
-                    file_path = os.path.join(root, file)    # 파일이 현재 들어있는 path와 파일 이름을 합쳐서 file_path를 만든다.
+                    file_path = os.path.join(root, file).replace("\\","/")   # 파일이 현재 들어있는 path와 파일 이름을 합쳐서 file_path를 만든다.
                     self.resizeAndConvert(file_path)    # 크기와 파일형식 변환
                     print(file_path)
         else:
-            pass
+            print(path)
+            self.resizeAndConvert(path)
