@@ -19,3 +19,5 @@ setup(
     options = dict(build_exe = buildOptions),
     executables = exe
 )
+
+# 빌드 명령어 python setup.py build
