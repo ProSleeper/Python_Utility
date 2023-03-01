@@ -16,25 +16,27 @@ import ffmpeg
 # pl2 = pl[1]
 
 
-# yt = YouTube('https://music.youtube.com/watch?v=6U2h_iccLXE&feature=share')
-# yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first().download()
+yt = YouTube('https://music.youtube.com/watch?v=W6RvzhJ4dU8&feature=share')
+yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first().download()
 # # yt.streams.get_audio_only().download()  # get_audio_only를 사용하면 자동적으로 최고음질로 받아준다.
 
-# file_name = yt.streams.first().default_filename
+file_name = yt.streams.first().default_filename
 
 # # file_name은 파일이름은 저장되는 mp4파일과 동일한데, 프로그램 상에서는 확장자가 3gpp인가로 표시되어서 뒤에서부터 읽어서 .을 찾아서 .과 확장자를 지우고 .mp4로 저장하는 코드이고, save_name은 mp4를 mp3로 변환해서 저장할 파일 이름이다.
-# file_name = file_name[0:file_name.rfind('.')]
-# save_name = file_name + ".mp3"
-# file_name += ".mp4";
-# print(save_name)
+file_name = file_name[0:file_name.rfind('.')]
+save_name = file_name + ".mp3"
+file_name += ".mp4";
+print(save_name)
 
+
+# 도저히 mp4에서 mp3 320k 변환이 안되어서 아래 내용은 포기하고 다운은 파이썬, 변환은 js로 해보자.
 # video = VideoFileClip(file_name)
 # video.audio.write_audiofile('originfile.mp3')
 
-print(os.path.realpath('originfile.mp3'))
-print(os.getcwd())
+# print(os.path.realpath('originfile.mp3'))
+# print(os.getcwd())
 
-stream = ffmpeg.input(os.path.realpath('originfile.mp3'))
-stream = ffmpeg.hflip(stream)
-stream = ffmpeg.output(stream, 'co.mp3')
-ffmpeg.run(stream)
+# stream = ffmpeg.input(os.path.realpath('originfile.mp3'))
+# stream = ffmpeg.hflip(stream)
+# stream = ffmpeg.output(stream, 'co.mp3')
+# ffmpeg.run(stream)
