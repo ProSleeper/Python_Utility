@@ -3,9 +3,9 @@
 <br>
 
 ## 1. ConvertToImageForYoutube
-### 유튜브 채널에 음악 올릴 때 쓸 이미지 자동 변환
-    - 모든 이미지 파일을 배경(1920x1920)과 앨범(1080x1080) 해상도와 PNG 파일로 변환해준다.
-    - 추후 수정 후 build 명령어 >> python setup.py build
+### 이미지 자동 변환
+#### 자세한 내용은 프로젝트 폴더 내부 ReadMe.md 참조
+ 
 <hr>
 <br><br>
 

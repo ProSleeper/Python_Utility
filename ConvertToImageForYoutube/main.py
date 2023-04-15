@@ -6,9 +6,12 @@ import os
 import sys
 import imghdr
 import urllib.parse
+import threading
 from PyQt5.QtWidgets import QTextEdit
 from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtWidgets import QMainWindow, QPushButton, QDesktopWidget
+
+
 
 
 # QTextEdit을 상속받은 폴더&파일을 드래그&드롭가능한 텍스트창
@@ -25,6 +28,10 @@ class FileDragAndDropPlain(QTextEdit):
         path = urllib.parse.unquote(source.text())
         self.setText(path)
 
+
+
+
+
 # # QPushButton를 상속받은 버튼
 class ConvertButton(QPushButton):
     def __init__(self, window, plain):  # 버튼을 누르면 plainText에 있는 path를 읽기 위해서 plain객체를 생성자 인자로 넣어준다.
@@ -36,9 +43,25 @@ class ConvertButton(QPushButton):
 
     # 마우스 up 일때 실행되는 함수 다운, 이동, 더블클릭 모두 존재한다.
     def mouseReleaseEvent(self, e: QtGui.QMouseEvent) -> None:
-        path = self.plain.toPlainText().replace("file:///", "");    # 클릭하면 textedit에 있는 경로를 읽어서 앞의 file:///를 제거 후 path로 저장
-        runMethod(path)
-        return super().mouseReleaseEvent(e)
+        paths = self.plain.toPlainText().replace("file:///", "").split('\n');    # 클릭하면 textedit에 있는 경로를 읽어서 앞의 file:///를 제거 후 path로 저장
+        paths.pop();    # 마지막 폴더도 \n을 포함하고 있어서 -1을 해준다.
+        
+        
+        # multi thread
+        # 빌드 후 실행에서 다중 폴더 드래그&드롭 하면 critical 에러 발생
+        thread_list=[]
+        for path in paths:
+            # 이미지 처리는 무거운 작업이라 오래 걸리는 것 같아서 쓰레드 적용.
+            thread_list.append(threading.Thread(target=runMethod, args=(path,)))
+            thread_list[-1].start()
+           
+        for path_thread in thread_list:
+            path_thread.join()
+        
+        # single thread
+        # for path in paths:
+            # runMethod(path)
+        # return super().mouseReleaseEvent(e)
 
 def resizeAndConvert(path):
     if(not imghdr.what(path)):  # 
@@ -72,9 +95,9 @@ def resizeAndConvert(path):
             with open(imageName[iter], mode='w+b') as f:
                 encoded_img.tofile(f)
 
+# 이 부분이 경로처리 부분인데 여러 폴더를 한번에 드롭하고 변환 버튼을 누르면 처리하는 부분을 추가 해야겠다.
 def runMethod(path):
     if(os.path.isdir(path)):
-
         # os.walk(path) 경로를 입력하면 재귀적으로 모든 폴더와 파일을 읽는다.
         # 폴더면 directories로 파일이면 files로 자동으로 나눠준다. 쩐다....
         for (root, directories, files) in os.walk(path):    
@@ -84,7 +107,7 @@ def runMethod(path):
             for file in files:
                 file_path = os.path.join(root, file)
                 resizeAndConvert(file_path)
-                print(file_path)
+                # print(file_path)
     else:
         pass
 

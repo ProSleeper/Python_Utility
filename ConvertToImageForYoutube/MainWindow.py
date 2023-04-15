@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QMainWindow, QDesktopWidget
 from PyQt5.QtCore import Qt, QPoint
 
 
+
 # QMainWindow 상속받은 윈도우창이다.
 class MainWidget(QMainWindow):
     def __init__(self, parent=None):

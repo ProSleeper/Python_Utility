@@ -1,8 +1,4 @@
 from cx_Freeze import setup, Executable
-import sys
-
-
-
 
 # 스프링에 빗대서 설명하자면 의존성 추가라고 보면 된다. 내가 만든 프로그램에서 사용했던 library들을 전부 같이 빌드한다는 옵션이다.
 buildOptions = dict(packages = ["PyQt5","urllib","imghdr","numpy", "cv2", "os", "sys"],  # 1
