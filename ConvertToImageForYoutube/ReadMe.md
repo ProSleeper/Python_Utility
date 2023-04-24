@@ -25,3 +25,6 @@ OS: window 10
 - 그래서 구글 검색도 하고 여러가지 했는데도 안되길래 코드를 다시 봤는데 MainWindow.py랑 main.py에 중복되는 부분이 있었다.
 - 그리고 실제 프로그램의 window창을 만드는건 main.py에서 만드는데 난 계속 MainWindow.py를 만지고 있었다...
 - 그래서 MainWindow.py에서 window창을 만드는 코드로 수정.
+- ### v.20230425
+- 코드를 다시 보는데 UI부분 코드들이 의미없이 파일로만 나누어져 있어서 UI MainWindowUI.py 파일로 통합.
+- 그리고 현재는 pyinstaller로 빌드하기 때문에 이전에 python setup.py build 로 빌드할때 필요했던 setup.py 파일은 삭제.
