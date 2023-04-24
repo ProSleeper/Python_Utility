@@ -1,12 +1,11 @@
 
 from FileConvert import FileConverter
-from PyQt5 import QtGui
-from PyQt5.QtWidgets import QPushButton
+from PyQt5 import QtWidgets, QtGui
 
 # # QPushButton를 상속받은 버튼
-class ConvertButton(QPushButton):
+class ConvertButton(QtWidgets.QPushButton):
     def __init__(self, window, plain):  # 버튼을 누르면 plainText에 있는 path를 읽기 위해서 plain객체를 생성자 인자로 넣어준다.
-        super(QPushButton, self).__init__(window)
+        super(QtWidgets. QPushButton, self).__init__(window)
         self.setText("변환")    # 버튼 이름
         self.move(350, 50)
         self.setFixedSize(100, 30)  # 고정된 크기

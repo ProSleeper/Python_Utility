@@ -4,7 +4,6 @@ import os
 import imghdr
 
 class FileConverter:
-
     def resizeAndConvert(self, path):
         if(not imghdr.what(path)):  # 해당 path에 있는 파일 혹은 폴더가(여기서는 folder는 오지 않으므로 파일만) 이미지인지 확인
             return
@@ -40,7 +39,6 @@ class FileConverter:
 
     def recursiveFileReading(self, path):
         if(os.path.isdir(path)):
-
             # os.walk(path) 경로를 입력하면 재귀적으로 모든 폴더와 파일을 읽는다.
             # 폴더면 directories로 파일이면 files로 자동으로 나눠준다. 쩐다....
             for (root, directories, files) in os.walk(path):    
@@ -50,7 +48,7 @@ class FileConverter:
                 for file in files:
                     file_path = os.path.join(root, file).replace("\\","/")   # 파일이 현재 들어있는 path와 파일 이름을 합쳐서 file_path를 만든다.
                     self.resizeAndConvert(file_path)    # 크기와 파일형식 변환
-                    print(file_path)
+                    # print(file_path)
         else:
             print(path)
             self.resizeAndConvert(path)

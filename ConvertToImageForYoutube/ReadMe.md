@@ -20,3 +20,8 @@ OS: window 10
 - ~~현재 2개 이상 폴더 드래그&드롭 시 에러 발생. 문제 해결 중~~: 해결.
 - 빌드 후 Opencv config 에러가 발생해서 chatGPT한테 물어봐서 해결했다. 뭔가 패키지 버전과 의존성 문제인것 같다.
 - 그리고 pyinstaller 로 빌드 방식 변경.
+### v.20230424
+- 항상 위에(always on top) 코드가 안먹길래 왜 안먹는지 chatGPT한테 열심히 물어봐도 해결이 안됐다.
+- 그래서 구글 검색도 하고 여러가지 했는데도 안되길래 코드를 다시 봤는데 MainWindow.py랑 main.py에 중복되는 부분이 있었다.
+- 그리고 실제 프로그램의 window창을 만드는건 main.py에서 만드는데 난 계속 MainWindow.py를 만지고 있었다...
+- 그래서 MainWindow.py에서 window창을 만드는 코드로 수정.
