@@ -29,18 +29,18 @@ class FileDragAndDropPlain(QtWidgets.QTextEdit):
     def __init__(self, window):
         super(QtWidgets.QTextEdit, self).__init__(window)
         # self.setAcceptDrops(True);    # 이걸 PyQt5에서는 이 메서드를 실행시켜야 Drop이 가능한 ui가 있다. 다만 이 QTextEdit은 기본 설정이 drop가능이고 해당 drop을 컨트롤 하기 위해서는 아래 insertFromMimeData 메서드를 오버라이딩만 해주면 된다.
-        
         self.move(50, 50)       # 화면의 x,y 50만큼씩 이동(기준 왼쪽 위)
         self.setFixedSize(280, 180)   # 고정 사이즈
-
+        self.path_list = None;
     # QTextEdit의 메서드 오버라이드
     # 폴더&파일을 해당 text창에 드롭하면 실행된다.
     def insertFromMimeData(self, source: QtCore.QMimeData) -> None:
         path = urllib.parse.unquote(source.text())
+        path = path.replace("file:///", "");
+        self.path_list = path.splitlines();
         self.setText(path)
-
-
-# # QPushButton를 상속받은 버튼
+        
+# QPushButton를 상속받은 버튼
 class ConvertButton(QtWidgets.QPushButton):
     def __init__(self, window, plain):  # 버튼을 누르면 plainText에 있는 path를 읽기 위해서 plain객체를 생성자 인자로 넣어준다.
         super(QtWidgets. QPushButton, self).__init__(window)
@@ -51,7 +51,9 @@ class ConvertButton(QtWidgets.QPushButton):
 
     # 마우스 up 일때 실행되는 함수 다운, 이동, 더블클릭 모두 존재한다.
     def mouseReleaseEvent(self, e: QtGui.QMouseEvent) -> None:
-        path = self.plain.toPlainText().replace("file:///", "");    # 클릭하면 textedit에 있는 경로를 읽어서 앞의 file:///를 제거 후 path로 저장
-        FileConverter().recursiveFileReading(path);    # 파일 변환을 위해서 해당 객체를 가져와서 필요한 메서드를 실행한다.
+        if self.plain.path_list is None:
+            return;
+        FileConverter().runPathList(self.plain.path_list)
+        QtWidgets.QMessageBox.information(self, "Info", "All image conversions are complete.", QtWidgets.QMessageBox.Ok)
         return super().mouseReleaseEvent(e)
     
