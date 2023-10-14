@@ -1,21 +1,18 @@
-import sys
 import urllib.parse
 from PyQt5 import QtWidgets, QtCore, QtGui
 from FileConvert import FileConverter
 
-
 class CreateApp():
     def __init__(self):
-        self.app = QtWidgets.QApplication(sys.argv)
+        self.app = QtWidgets.QApplication([])
         MainWindow = MainWidget();
-        sys.exit(self.app.exec_())
-
+        self.app.exec_()
+        
 # QMainWindow 상속받은 윈도우창이다.
 class MainWidget(QtWidgets.QMainWindow):
-    
-    def __init__(self, parent=None):
-        
-        super(MainWidget, self).__init__(parent)
+    def __init__(self):
+        # super(MainWidget, self).__init__(parent)
+        super(MainWidget, self).__init__()
 
         # 클래스로 만들어 둔 텍스트에디터와 버튼을 현재의 window에 추가시키기 위한 코드
         plain = FileDragAndDropPlain(self)

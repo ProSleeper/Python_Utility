@@ -1,8 +1,7 @@
 from fileinput import filename
 
 from asyncio import streams
-from pytube import YouTube
-from pytube import Playlist
+from pytube import YouTube, Playlist
 from moviepy.editor import *
 import os
 import ffmpeg
@@ -10,26 +9,28 @@ import ffmpeg
 
 # YouTube('https://youtu.be/Rc0smU6n-vM').streams.first().download()
 
-# ìœ íŠœë¸Œë‚˜ ìœ íŠœë¸Œ ë®¤ì§ ë‘˜ë‹¤ playlistë¥¼ ì–»ì„ ìˆ˜ ìˆëŠ” ë©”ì„œë“œ
-# pl = Playlist('https://music.youtube.com/playlist?list=OLAK5uy_nBl9St6mOl7S_8DxyvVOSVcIHm9-5nSHM&feature=shar');
+# À¯Æ©ºê³ª À¯Æ©ºê ¹ÂÁ÷ µÑ´Ù playlist¸¦ ¾òÀ» ¼ö ÀÖ´Â ¸Ş¼­µå
+# pl = Playlist(
+#     'https://music.youtube.com/playlist?list=OLAK5uy_nBl9St6mOl7S_8DxyvVOSVcIHm9-5nSHM&feature=shar')
 # pl1 = pl[0]
 # pl2 = pl[1]
 
-
-yt = YouTube('https://music.youtube.com/watch?v=W6RvzhJ4dU8&feature=share')
+url = "https://music.youtube.com/watch?v=SmJuzb-7p4E&si=EfehU-IG0_Qadils"
+yt = YouTube(url)
 yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first().download()
-# # yt.streams.get_audio_only().download()  # get_audio_onlyë¥¼ ì‚¬ìš©í•˜ë©´ ìë™ì ìœ¼ë¡œ ìµœê³ ìŒì§ˆë¡œ ë°›ì•„ì¤€ë‹¤.
+# get_audio_only¸¦ »ç¿ëÇÏ¸é ÀÚµ¿ÀûÀ¸·Î ÃÖ°íÀ½Áú·Î ¹Ş¾ÆÁØ´Ù.
+# yt.streams.get_audio_only().download()
 
 file_name = yt.streams.first().default_filename
 
-# # file_nameì€ íŒŒì¼ì´ë¦„ì€ ì €ì¥ë˜ëŠ” mp4íŒŒì¼ê³¼ ë™ì¼í•œë°, í”„ë¡œê·¸ë¨ ìƒì—ì„œëŠ” í™•ì¥ìê°€ 3gppì¸ê°€ë¡œ í‘œì‹œë˜ì–´ì„œ ë’¤ì—ì„œë¶€í„° ì½ì–´ì„œ .ì„ ì°¾ì•„ì„œ .ê³¼ í™•ì¥ìë¥¼ ì§€ìš°ê³  .mp4ë¡œ ì €ì¥í•˜ëŠ” ì½”ë“œì´ê³ , save_nameì€ mp4ë¥¼ mp3ë¡œ ë³€í™˜í•´ì„œ ì €ì¥í•  íŒŒì¼ ì´ë¦„ì´ë‹¤.
+# # file_nameÀº ÆÄÀÏÀÌ¸§Àº ÀúÀåµÇ´Â mp4ÆÄÀÏ°ú µ¿ÀÏÇÑµ¥, ÇÁ·Î±×·¥ »ó¿¡¼­´Â È®ÀåÀÚ°¡ 3gppÀÎ°¡·Î Ç¥½ÃµÇ¾î¼­ µÚ¿¡¼­ºÎÅÍ ÀĞ¾î¼­ .À» Ã£¾Æ¼­ .°ú È®ÀåÀÚ¸¦ Áö¿ì°í .mp4·Î ÀúÀåÇÏ´Â ÄÚµåÀÌ°í, save_nameÀº mp4¸¦ mp3·Î º¯È¯ÇØ¼­ ÀúÀåÇÒ ÆÄÀÏ ÀÌ¸§ÀÌ´Ù.
 file_name = file_name[0:file_name.rfind('.')]
 save_name = file_name + ".mp3"
 file_name += ".mp4";
 print(save_name)
 
 
-# ë„ì €íˆ mp4ì—ì„œ mp3 320k ë³€í™˜ì´ ì•ˆë˜ì–´ì„œ ì•„ë˜ ë‚´ìš©ì€ í¬ê¸°í•˜ê³  ë‹¤ìš´ì€ íŒŒì´ì¬, ë³€í™˜ì€ jsë¡œ í•´ë³´ì.
+# µµÀúÈ÷ mp4¿¡¼­ mp3 320k º¯È¯ÀÌ ¾ÈµÇ¾î¼­ ¾Æ·¡ ³»¿ëÀº Æ÷±âÇÏ°í ´Ù¿îÀº ÆÄÀÌ½ã, º¯È¯Àº js·Î ÇØº¸ÀÚ.
 # video = VideoFileClip(file_name)
 # video.audio.write_audiofile('originfile.mp3')
 
