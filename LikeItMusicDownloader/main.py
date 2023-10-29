@@ -1,59 +1,10 @@
-import os
-from pytube import YouTube, Playlist
-from moviepy.editor import AudioFileClip
+#-*- coding: euc-kr -*-
 
-
-# YouTube('https://youtu.be/Rc0smU6n-vM').streams.first().download()
-# ìœ íŠœë¸Œë‚˜ ìœ íŠœë¸Œ ë®¤ì§ ë‘˜ë‹¤ playlistë¥¼ ì–»ì„ ìˆ˜ ìˆëŠ” ë©”ì„œë“œ
-# pl = Playlist(
-#     'https://music.youtube.com/playlist?list=OLAK5uy_nBl9St6mOl7S_8DxyvVOSVcIHm9-5nSHM&feature=shar')
-# pl1 = pl[0]
-# pl2 = pl[1]
-
-
-class LMDDownloader:
-    def __init__(self, url:str, save_dir:str):
-        self.url = url;
-        self.save_dir = save_dir;
-        self.yt = YouTube(self.url);
-        self.trim_title = self.__Trim_Title();
-        
-    def Download(self):
-        # downloadê°€ ì™„ë£Œ ë˜ë©´ ë‹¤ìš´ë¡œë“œí•œ file pathë¥¼ ë¦¬í„´í•´ì¤€ë‹¤.
-        down_path = self.yt.streams.filter(only_audio=True).first().download(output_path = self.save_dir, filename = self.trim_title)
-        return self.yt.title, down_path;
-        
-    def __Trim_Title(self):
-        return f"{self.yt.title.replace(' ', '')}.mp4";
-    
-class LMDConvertor:
-    def __init__(self, title:str, read_path:str, save_path:str = None):
-        self.title = title;
-        self.read_path = read_path;
-        self.save_path = save_path;
-        if not self.save_path:
-            self.save_path = self.__Make_Save_Path();
-        
-    def Convert(self):
-        audio = AudioFileClip(self.read_path, buffersize=13_230_000, fps=48000)
-        audio.write_audiofile(self.save_path, verbose=False, logger=None, bitrate="320k")
-    
-        os.remove(self.read_path) # ì´ ë¶€ë¶„ì—ì„œ ë‹¤ë¥¸ í”„ë¡œì„¸ìŠ¤ê°€ íŒŒì¼ ì‚¬ìš© ì¤‘ì´ë¼ì„œ ì‚­ì œê°€ ì•ˆëœë‹¤ê³  ë‚˜ì˜¨ë‹¤. ì•„ë§ˆë„ ffmpegë³€í™˜í• ë•Œ subprocessë¥¼ ì‹¤í–‰ì‹œí‚¤ëŠ” ì½”ë“œê°€ ìˆì—ˆëŠ”ë° ê·¸ ë¶€ë¶„ì´ ê³„ì† íŒŒì¼ì„ ì‹¤í–‰ì‹œí‚¤ëŠ”ë° ë„ì¤‘ì— ì‚­ì œí•˜ë ¤ê³  í•´ì„œ ë¬¸ì œì¸ ê²ƒ ê°™ë‹¤. ë‚˜ì¤‘ì— í•´ê²°í•˜ì.
-    
-    # ë‹¹ì¥ì€ ë­”ê°€ ffmpegë¥¼ ì‚¬ìš©í•´ì„œ ë³€í™˜í• ë•Œ ê²½ë¡œ ë¬¸ì œê°€ ë°œìƒí•œë‹¤. ì´ìœ ë¥¼ ì˜ ëª¨ë¥´ê² ë‹¤.
-    def __Make_Save_Path(self):
-        dir_index = self.read_path.rfind(os.sep)
-        read_dir = self.read_path[:dir_index];
-        if read_dir.find(os.sep) == -1:
-            read_dir = os.path.join(read_dir, os.sep);
-        return os.path.join(read_dir, f"{self.title}.mp3");
+# ÆÄÀÏ 4°³·Î ³ª´« °ÍµéÀÇ ¿øº»!
+from MainWindowUI import CreateApp
 
 if __name__ == '__main__':
-    url = "https://music.youtube.com/watch?v=Q2x7i5xk2ZY&si=DlbP8AE0nAXOXQJS"
-
-    lmddownloader = LMDDownloader(url, "")
-    title, down_path = lmddownloader.Download();
-
-    lmdconvertor = LMDConvertor(title, down_path);
-    lmdconvertor.Convert();
-
+    CreateApp();
+    
+    # ÃßÈÄ¿¡ Ã¢ Å©±â³ª, Ç×»ó À§¿¡, Ã¢ ÀÌµ¿ µî ¿©·¯°¡Áö ¼³Á¤ »çÇ×À» Config ÆÄÀÏ·Î ¹Ş´Â ÇüÅÂ·Î º¯°æÇØº¸ÀÚ
+    # ´çÀåÀº ¹Ù²Ù°Å³ª ¼öÁ¤ÇÒ °Ô °ÅÀÇ ¾ø´Â °Í °°´Ù.

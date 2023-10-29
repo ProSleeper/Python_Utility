@@ -9,8 +9,8 @@
 <br><br>
 
 ## Build Environment
-build version: Python 3.8.2
-dependency: pytube, moviepy
+build version: Python 3.8.2, pyinstaller 6.1.0
+dependency: PyQt5, pytube, moviepy
 
 ## Run Environment
 OS: window 10
@@ -31,3 +31,11 @@ OS: window 10
         PermissionError: [WinError 32] 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다: 'C:\\Users\\ingn\\Documents\\python\\Python_Utility\\LikeItMusicDownloader\\Worse.mp4'
     ```
 - 그 외에 기능이나 코드 수정은 없다.
+### v.20231029
+- 기존에 만든 이미지 변환 프로젝트에서 ui부분만 코드 수정해서 10개의 url음악을 한번에 다운 받을 수 있도록 기능 추가.
+- log, config등 하려면 할 기능이 너무나 많지만, 내가 사용하려는 기능이 제일 우선이므로 간단하게 ui추가하고 다운로드 경로는 고정시켜서 구현함.
+- 현재는 코드가 전부 동기적이라서 10개의 곡을 한번에 다운받으면 꽤 시간이 걸릴텐데 추후 스레드 적용해서 병렬로 처리하자.(아 이번에는 비동기로 구현해볼까? 어차피 오래 걸리는 부분은 io니까)
+- 이미지 변환기와 마찬가지로 build 시켜서 먼저 사용하는 게 목적이라서 일단 여기까지!
+- pyinstaller로 빌드하려고 했는데 계속 utf-8 UTFEncodingError 라고 뜨길래 코드가 euc-kr이라서 그런줄 알고 이것저것 바꿔보고 검색도 해봤는데, 거의 다 안됐었다.
+- 다행이 stackoverflow에서 힌트를 얻어서 pyinstaller가 문제일 수도 있다는 생각이 들어서 최신버전 5.10.1 -> 6.1.0 으로 업데이트 후 실행하니까 오류없이 됐다.
+- 다만 변환할때 ffmpeg가 필요하다보니 실행파일의 크기가 100mb가 넘어간다. 아마도 ffmpeg파일의 크기만 77mb가 되어서 그런거 같다.

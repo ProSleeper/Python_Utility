@@ -7,8 +7,9 @@
 <br><br>
 
 ## Build Environment
-build version: Python 3.8.2
+build version: Python 3.8.2, pyinstaller 5.10.1
 dependency: urllib.parse, PyQt5, cv2, numpy, imghdr
+
 
 ## Run Environment
 OS: window 10
