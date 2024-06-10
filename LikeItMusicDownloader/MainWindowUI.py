@@ -8,7 +8,7 @@ from Executor import LMDExecutor
 class CreateApp():
     def __init__(self):
         self.app = QApplication([])
-        MainWindow = MainWidget();
+        MainWindow = MainWidget()
         self.app.exec_()
         
 # QMainWindow 상속받은 윈도우창이다.
@@ -20,13 +20,13 @@ class MainWidget(QMainWindow):
         # 클래스로 만들어 둔 텍스트에디터와 버튼을 현재의 window에 추가시키기 위한 코드
         line_edit_list = []
         for offset in range(10):
-            line_edit_list.append(UrlTextLineEdit(self, offset));
-        ConvertButton(self, line_edit_list);
+            line_edit_list.append(UrlTextLineEdit(self, offset))
+        ConvertButton(self, line_edit_list)
 
         self.setWindowTitle('likeMusicConverter')
         # self.setWindowFlags(Qt.WindowStaysOnTopHint) # 다른 파일을 드롭 시키는 프로그램이라서 always on top 설정
         self.setFixedSize(500, 400)
-        self.center();
+        self.center()
         self.show()
         
     # 창 가운데 정렬을 위한 메서드
@@ -60,9 +60,9 @@ class ConvertButton(QPushButton):
         
         url_list = [line_edit.text() for line_edit in self.line_edit_list ]
         save_dir = "C:\\Users\\ingn\\Documents\\LIKEITMUSIC\\##############작업할 노래1"
-        downloader = LMDExecutor(url_list, save_dir);
-        downloader.DownLoad();
-        time.sleep(1.5);
+        downloader = LMDExecutor(url_list, save_dir)
+        downloader.DownLoad()
+        time.sleep(1.5)
         # 다운로드 기능 실행.
         # FileConverter().runPathList(self.plain.path_list)
         

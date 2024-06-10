@@ -1,7 +1,8 @@
 #-*- coding: euc-kr -*-
 
-from Downloader import LMDDownloader
-from Convertor import LMDConvertor
+# from Downloader import LMDDownloader
+from Downloader_yt import LMDDownloader
+# from Convertor import LMDConvertor
 
 class LMDExecutor:
     def __init__(self, url_list, save_dir:str = ""):
@@ -16,9 +17,9 @@ class LMDExecutor:
                     # 이런 에러나 잘못된 부분에서 log를 남겨놔야 하는데, 일단 넘어가도록 continue로 해두자.
                     continue
                 lmddownloader = LMDDownloader(url, self.save_dir)
-                title, down_path = lmddownloader.Download()
-                lmdconvertor = LMDConvertor(title, down_path)
-                lmdconvertor.Convert()
+                lmddownloader.Download()
+                # lmdconvertor = LMDConvertor(title, down_path)
+                # lmdconvertor.Convert()
         except BaseException as e:
             print(f"[{self.__class__.__name__}], Error: {str(e)}")
        
