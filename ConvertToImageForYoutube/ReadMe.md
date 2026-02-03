@@ -14,6 +14,16 @@ dependency: urllib.parse, PyQt5, cv2, numpy, imghdr
 ## Run Environment
 OS: window 10
 
+## Quick Start Build
+1. 가상환경 활성화 후 패키지 설치
+python -m venv .venv
+.venv\Scripts\activate
+pip install pyinstaller pyqt5 opencv-python numpy
+
+2. 빌드 실행
+pyinstaller --onefile --noconsole main.py
+
+
 ## Version History
 ### v.20221231
 - 폴더 1개 혹은 폴더 1개 하위 모든 폴더의 변환 지원.
@@ -45,4 +55,5 @@ OS: window 10
 - pyinstaller로 만든 exe로 실행시 약 2초 정도 걸리는데 이게 싫어서 변경을 해보려고 했는데, 이걸 변경하는데 사용하는 노력 대비 결과가 그리 좋지 못할 것 같아서 그냥 2초 정도는 감수하기로 했다.
 - 그리고 MainWindowUI.py 에서 sys 모듈을 사용하고 있었는데 불필요하다고 판단되어서 모듈과 사용 코드 삭제.
 - 이전 버전에서 말했던 Config 파일만드는 건 사실 되게 쉬운데, 그러면 exe파일말고도 Config파일도 필요해서 일단 보류.
-
+### v.20260203
+- MainWindowUI.py 파일의 MainWidget center메서드의 self.move 함수 실행 부분에서 float형태값을 넘겨주는 것이 문제였어서 int형태로 수정.
