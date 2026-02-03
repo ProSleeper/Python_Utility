@@ -29,7 +29,9 @@ class MainWidget(QtWidgets.QMainWindow):
         qr = self.frameGeometry()   # self(여기서는 QMainWindow)의 GeoMetry() 정보를 불러와 동일한 정보의 가상의 사각형을 생성합니다.
         cp = QtWidgets.QDesktopWidget().availableGeometry().center() # 화면의 중앙 좌표를 계산합니다.
         qr.moveCenter(cp)   # 사각형을 중앙으로 이동합니다.
-        self.move(qr.left() + qr.width() / 1.5, qr.top()) # 항상 다른 파일을 드롭 시켜야 하니까 중앙보다는 약간 옆에 좋은 듯 해서. 일단 먼저 center로 두고 가로를 왼쪽 기준으로 창 크기의 2/3만큼 오른쪽으로 이동 시켰고, 세로 위치는 동일하게.
+        x = qr.left() + qr.width() / 1.5
+        y = qr.top()
+        self.move(int(x), int(y)) # 항상 다른 파일을 드롭 시켜야 하니까 중앙보다는 약간 옆에 좋은 듯 해서. 일단 먼저 center로 두고 가로를 왼쪽 기준으로 창 크기의 2/3만큼 오른쪽으로 이동 시켰고, 세로 위치는 동일하게.
 
 # QTextEdit을 상속받은 폴더&파일을 드래그&드롭가능한 텍스트창
 class FileDragAndDropPlain(QtWidgets.QTextEdit):
