@@ -16,11 +16,12 @@ OS: window 10
 
 ## Quick Start Build
 1. 가상환경 활성화 후 패키지 설치
+pip install --upgrade pip
 python -m venv .venv
 .venv\Scripts\activate
 pip install pyinstaller pyqt5 opencv-python numpy
 
-2. 빌드 실행
+1. 빌드 실행
 pyinstaller --onefile --noconsole main.py
 
 
