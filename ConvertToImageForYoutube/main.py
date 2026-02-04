@@ -1,8 +1,21 @@
-# 파일 4개로 나눈 것들의 원본!
-from MainWindowUI import CreateApp
+#!/usr/bin/env python3
+import sys
+import os
 
-if __name__ == '__main__':
-    CreateApp();
-    
-    # 추후에 창 크기나, 항상 위에, 창 이동 등 여러가지 설정 사항을 Config 파일로 받는 형태로 변경해보자
-    # 당장은 바꾸거나 수정할 게 거의 없는 것 같다.
+# OS 판별: 윈도우면 GUI, 리눅스면 CLI
+if os.name == 'nt' or sys.platform.startswith('win'):  # Windows
+    from MainWindowUI import CreateApp
+    if __name__ == "__main__":
+        CreateApp()
+else:  # Linux/CLI 모드
+    from FileConvert import FileConverter
+    if __name__ == "__main__":
+        if len(sys.argv) < 2:
+            print("How to Use: ./main <path1> [path2 ...]")
+            print("example: ./main /path/to/folder1 /path/to/image.jpg")
+            sys.exit(1)
+
+        paths = sys.argv[1:]
+        converter = FileConverter()
+        converter.runPathList(paths)
+        print("Complete to Convert!")

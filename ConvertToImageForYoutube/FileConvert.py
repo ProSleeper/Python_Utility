@@ -29,8 +29,8 @@ class FileConverter:
         BACKGROUND_SIZE = (1080, 1080)
         ALBUM_SIZE = (1920, 1920)
 
-        BACKGROUND_FILE_NAME = "배경.png"
-        ALBUM_FILE_NAME = "앨범.png"
+        BACKGROUND_FILE_NAME = "bg.png"
+        ALBUM_FILE_NAME = "cover.png"
 
         resizeImageList = list()
         reverseItemPath = path.rfind("/")

@@ -53,7 +53,7 @@ class FileDragAndDropPlain(QtWidgets.QTextEdit):
 class ConvertButton(QtWidgets.QPushButton):
     def __init__(self, window, plain):  # 버튼을 누르면 plainText에 있는 path를 읽기 위해서 plain객체를 생성자 인자로 넣어준다.
         super(QtWidgets. QPushButton, self).__init__(window)
-        self.setText("변환")    # 버튼 이름
+        self.setText("Convert")    # 버튼 이름
         self.move(350, 50)
         self.setFixedSize(100, 30)  # 고정된 크기
         self.plain = plain  # java에서 this.number = number 처럼 생성자에서 해주는 일

@@ -12,4 +12,4 @@ class ElapsedTime:
     self.elapsed_seconds = int(self.elapsed_time.total_seconds())
     self.elapsed_milliseconds = int((self.elapsed_time.total_seconds() - self.elapsed_seconds) * 1000)
 
-    print("경과 시간: {}초 {}밀리초".format(self.elapsed_seconds, self.elapsed_milliseconds))
+    print("Duration: {}sec {}ms".format(self.elapsed_seconds, self.elapsed_milliseconds))
