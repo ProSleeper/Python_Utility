@@ -2,7 +2,6 @@
 ## 유튜브 채널에 음악 올릴 때 쓸 이미지 자동 변환
 - 모든 이미지 파일을 배경(1920x1920)과 앨범(1080x1080) 해상도와 PNG 파일로 변환해준다.
 - ~~추후 수정 후 build 명령어 >> python setup.py build~~
-- build 명령어 >> pyinstaller --onefile --noconsole main.py
 <hr>
 <br><br>
 
@@ -11,8 +10,8 @@ build version: Python 3.8.2, pyinstaller 5.10.1
 dependency: urllib.parse, PyQt5, cv2, numpy, imghdr
 
 
-## Run Environment
-OS: window 10
+# Windows Build
+window 10
 
 ## Quick Start Build
 1. 가상환경 활성화 후 패키지 설치
@@ -21,8 +20,33 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install pyinstaller pyqt5 opencv-python numpy
 
-1. 빌드 실행
+2. 빌드 실행
 pyinstaller --onefile --noconsole main.py
+
+
+# Linux Build
+Static hostname: xxxxxxxx
+Icon name: computer-vm
+Chassis: vm
+Machine ID: ec3cb41dd120402699ffbc3511e57cf8
+Boot ID: aab99ac562914148b49cd0f22f2a3e05
+Virtualization: kvm
+Operating System: CentOS Linux 7 (Core)
+CPE OS Name: cpe:/o:centos:centos:7
+Kernel: Linux 3.10.0-1160.108.1.el7.x86_64
+Architecture: x86-64
+
+## Quick Start Build
+1. 가상환경 활성화 후 패키지 설치
+pip install --upgrade pip
+python -m venv .venv
+.venv\Scripts\activate
+pip install pyinstaller pyqt5 numpy
+pip install "opencv-python-headless==4.5.5.64"
+
+2. 빌드 실행
+pyinstaller --onefile main.py
+
 
 
 ## Version History
@@ -58,3 +82,7 @@ pyinstaller --onefile --noconsole main.py
 - 이전 버전에서 말했던 Config 파일만드는 건 사실 되게 쉬운데, 그러면 exe파일말고도 Config파일도 필요해서 일단 보류.
 ### v.20260203
 - MainWindowUI.py 파일의 MainWidget center메서드의 self.move 함수 실행 부분에서 float형태값을 넘겨주는 것이 문제였어서 int형태로 수정.
+### v.20260204
+- Linux에서도 빌드가 가능하도록 main.py에 OS 판별 후 linux면 cli로 동작하도록 수정.
+- Linux 빌드 환경과 방법 추가.
+- Linux에서 컴파일 시 언어 문제 해결을 위해서 출력되는 한글->영어 로 수정
