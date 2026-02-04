@@ -16,12 +16,15 @@ window 10
 ## Quick Start Build
 1. 가상환경 활성화 후 패키지 설치
 pip install --upgrade pip
-python -m venv .venv
+python -m venv .venv OR python3 -m venv .venv
 .venv\Scripts\activate
 pip install pyinstaller pyqt5 opencv-python numpy
 
 2. 빌드 실행
 pyinstaller --onefile --noconsole main.py
+
+3. 실행 방법
+exe파일을 실행 후 GUI로 사용 한다.
 
 
 # Linux Build
@@ -39,13 +42,16 @@ Architecture: x86-64
 ## Quick Start Build
 1. 가상환경 활성화 후 패키지 설치
 pip install --upgrade pip
-python -m venv .venv
-.venv\Scripts\activate
+python -m venv .venv OR python3 -m venv .venv
+source .venv/bin/activate
 pip install pyinstaller pyqt5 numpy
 pip install "opencv-python-headless==4.5.5.64"
 
 2. 빌드 실행
 pyinstaller --onefile main.py
+
+3. 실행 방법
+$ ./main path1 [path2..] 형태로 실행
 
 
 
